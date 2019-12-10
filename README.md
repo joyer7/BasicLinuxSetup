@@ -18,4 +18,4 @@ The script `setup.sh` takes 3 arguments:
 - the cloud provider name: `aws`,`azure`,`gcp`.
 
 ```
-$ ./setup.sh aws 
+$ ./setup-custom.sh aws 
